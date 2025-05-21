@@ -1,6 +1,5 @@
-## Hi there 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/tux-walk.svg" alt="Tux" width="200">
+  <img src="https://raw.githubusercontent.com/keazzfaa/keazzfaa/main/tux-walk.svg" alt="Tux" width="200">
 </p>
 
 <p align="center">
