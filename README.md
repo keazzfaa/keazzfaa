@@ -5,8 +5,6 @@
 <h1 align="center">
   Hi there 👋, I'm Keazzfaa  
   <br>
-  My real name is Fadillah Eka, you can call me Eka
-</h1>
 
 <h3 align="center">A passionate Linux enthusiast and cybersecurity student</h3>
 
