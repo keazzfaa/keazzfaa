@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi there 👋, I'm Keazzfaa  
+  Hi there 👋, I'm Fadhillah Eka Kristianto  
   <br>
 
 <h3 align="center">A passionate Linux enthusiast and cybersecurity student</h3>
